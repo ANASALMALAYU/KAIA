@@ -16,3 +16,10 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+King Abdulaziz International Airport
+I wrote a program that counts the number of airplanes followed by the expected number of passengers. 
+There are two main airplane manufacturers (Airbus, Boeing).
+Classes and constructors used in the program to compile it properly.
+
+JAVA programming used here
